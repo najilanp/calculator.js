@@ -1,0 +1,13 @@
+.box{
+    width: 40px;
+    height: 40px;
+}
+.container-box{
+    width: 350px;
+    height: 400px;
+    background-color: rgba(227, 227, 41, 0.776);
+    
+}
+.delete{
+    margin-left: 200px;
+}
